@@ -1,0 +1,1455 @@
+[2018-05-25 10:37:30] set names utf8
+[2018-05-25 10:37:30] DESC cz_category
+[2018-05-25 10:37:30] SELECT * FROM cz_category
+[2018-05-25 10:40:46] set names utf8
+[2018-05-25 10:40:46] DESC cz_category
+[2018-05-25 10:40:46] SELECT * FROM cz_category
+[2018-05-25 10:40:53] set names utf8
+[2018-05-25 10:40:53] DESC cz_category
+[2018-05-25 10:40:53] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('111','1111','50','1111','0','1')
+[2018-05-25 10:43:13] set names utf8
+[2018-05-25 10:43:13] DESC cz_category
+[2018-05-25 10:43:13] SELECT * FROM cz_category
+[2018-05-25 10:44:00] set names utf8
+[2018-05-25 10:44:00] DESC cz_category
+[2018-05-25 10:44:00] SELECT * FROM cz_category
+[2018-05-25 10:44:08] set names utf8
+[2018-05-25 10:44:08] DESC cz_category
+[2018-05-25 10:44:08] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('2222222','222222','50','22222','0','1')
+[2018-05-25 10:44:13] set names utf8
+[2018-05-25 10:44:13] DESC cz_category
+[2018-05-25 10:44:13] SELECT * FROM cz_category
+[2018-05-25 10:49:50] set names utf8
+[2018-05-25 10:49:50] DESC cz_category
+[2018-05-25 10:49:50] SELECT * FROM cz_category
+[2018-05-25 10:52:03] set names utf8
+[2018-05-25 10:52:03] DESC cz_category
+[2018-05-25 10:52:03] SELECT * FROM cz_category
+[2018-05-25 10:52:04] set names utf8
+[2018-05-25 10:52:04] DESC cz_category
+[2018-05-25 10:52:05] SELECT * FROM cz_category
+[2018-05-25 10:52:17] set names utf8
+[2018-05-25 10:52:17] DESC cz_category
+[2018-05-25 10:52:17] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('男女服装','111','50','好看','0','1')
+[2018-05-25 10:52:18] set names utf8
+[2018-05-25 10:52:18] DESC cz_category
+[2018-05-25 10:52:18] SELECT * FROM cz_category
+[2018-05-25 10:52:36] set names utf8
+[2018-05-25 10:52:36] DESC cz_category
+[2018-05-25 10:52:36] SELECT * FROM cz_category
+[2018-05-25 11:02:23] set names utf8
+[2018-05-25 11:02:23] DESC cz_category
+[2018-05-25 11:02:23] SELECT * FROM cz_category
+[2018-05-25 11:02:27] set names utf8
+[2018-05-25 11:02:27] DESC cz_category
+[2018-05-25 11:02:27] DELETE FROM `cz_category` WHERE `cat_id`=
+[2018-05-25 11:02:53] set names utf8
+[2018-05-25 11:02:53] DESC cz_category
+[2018-05-25 11:02:53] DELETE FROM `cz_category` WHERE `cat_id`=4
+[2018-05-25 11:02:54] set names utf8
+[2018-05-25 11:02:54] DESC cz_category
+[2018-05-25 11:02:54] SELECT * FROM cz_category
+[2018-05-25 11:02:58] set names utf8
+[2018-05-25 11:02:58] DESC cz_category
+[2018-05-25 11:02:58] DELETE FROM `cz_category` WHERE `cat_id`=3
+[2018-05-25 11:03:04] set names utf8
+[2018-05-25 11:03:04] DESC cz_category
+[2018-05-25 11:03:04] SELECT * FROM cz_category
+[2018-05-25 11:03:05] set names utf8
+[2018-05-25 11:03:05] DESC cz_category
+[2018-05-25 11:03:05] SELECT * FROM cz_category
+[2018-05-25 11:03:05] set names utf8
+[2018-05-25 11:03:05] DESC cz_category
+[2018-05-25 11:03:05] SELECT * FROM cz_category
+[2018-05-25 11:03:06] set names utf8
+[2018-05-25 11:03:06] DESC cz_category
+[2018-05-25 11:03:06] SELECT * FROM cz_category
+[2018-05-25 11:03:10] set names utf8
+[2018-05-25 11:03:10] DESC cz_category
+[2018-05-25 11:03:10] SELECT * FROM cz_category
+[2018-05-25 11:03:15] set names utf8
+[2018-05-25 11:03:15] DESC cz_category
+[2018-05-25 11:03:15] DELETE FROM `cz_category` WHERE `cat_id`=2
+[2018-05-25 11:03:19] set names utf8
+[2018-05-25 11:03:19] DESC cz_category
+[2018-05-25 11:03:19] SELECT * FROM cz_category
+[2018-05-25 11:04:07] set names utf8
+[2018-05-25 11:04:07] DESC cz_category
+[2018-05-25 11:04:07] SELECT * FROM cz_category
+[2018-05-25 11:04:11] set names utf8
+[2018-05-25 11:04:11] DESC cz_category
+[2018-05-25 11:04:11] DELETE FROM `cz_category` WHERE `cat_id`=1
+[2018-05-25 11:04:11] DELETE FROM `cz_category` WHERE `cat_id`=1
+[2018-05-25 11:04:12] set names utf8
+[2018-05-25 11:04:12] DESC cz_category
+[2018-05-25 11:04:12] SELECT * FROM cz_category
+[2018-05-25 11:04:15] set names utf8
+[2018-05-25 11:04:15] DESC cz_category
+[2018-05-25 11:04:15] SELECT * FROM cz_category
+[2018-05-25 11:24:46] set names utf8
+[2018-05-25 11:24:46] DESC cz_category
+[2018-05-25 11:24:46] SELECT * FROM cz_category
+[2018-05-25 11:24:53] set names utf8
+[2018-05-25 11:24:53] DESC cz_category
+[2018-05-25 11:24:53] SELECT * FROM cz_category
+[2018-05-25 11:24:54] set names utf8
+[2018-05-25 11:24:54] DESC cz_category
+[2018-05-25 11:24:54] SELECT * FROM cz_category
+[2018-05-25 11:27:33] set names utf8
+[2018-05-25 11:27:33] DESC cz_category
+[2018-05-25 11:27:33] SELECT * FROM cz_category
+[2018-05-25 11:27:35] set names utf8
+[2018-05-25 11:27:35] DESC cz_category
+[2018-05-25 11:27:35] SELECT * FROM cz_category
+[2018-05-25 11:27:38] set names utf8
+[2018-05-25 11:27:38] DESC cz_category
+[2018-05-25 11:27:38] SELECT * FROM cz_category
+[2018-05-25 11:27:47] set names utf8
+[2018-05-25 11:27:47] DESC cz_category
+[2018-05-25 11:27:47] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('男女服装','个','50','1111','0','1')
+[2018-05-25 11:27:48] set names utf8
+[2018-05-25 11:27:48] DESC cz_category
+[2018-05-25 11:27:48] SELECT * FROM cz_category
+[2018-05-25 11:49:03] set names utf8
+[2018-05-25 11:49:03] DESC cz_category
+[2018-05-25 11:49:03] SELECT * FROM cz_category
+[2018-05-25 11:51:19] set names utf8
+[2018-05-25 11:51:19] DESC cz_category
+[2018-05-25 11:51:19] SELECT * FROM cz_category
+[2018-05-25 11:55:02] set names utf8
+[2018-05-25 11:55:02] DESC cz_category
+[2018-05-25 11:55:02] SELECT * FROM cz_category
+[2018-05-25 11:57:51] set names utf8
+[2018-05-25 11:57:51] DESC cz_category
+[2018-05-25 11:57:51] SELECT * FROM cz_category
+[2018-05-25 11:57:58] set names utf8
+[2018-05-25 11:57:58] DESC cz_category
+[2018-05-25 11:57:58] SELECT * FROM cz_category
+[2018-05-25 11:58:14] set names utf8
+[2018-05-25 11:58:14] DESC cz_category
+[2018-05-25 11:58:14] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('手机','个','50','手机','0','1')
+[2018-05-25 11:58:15] set names utf8
+[2018-05-25 11:58:15] DESC cz_category
+[2018-05-25 11:58:15] SELECT * FROM cz_category
+[2018-05-25 12:33:39] set names utf8
+[2018-05-25 12:33:39] DESC cz_category
+[2018-05-25 12:33:39] SELECT * FROM cz_category
+[2018-05-25 12:33:41] set names utf8
+[2018-05-25 12:33:41] DESC cz_category
+[2018-05-25 12:33:41] select * from `cz_category` where `cat_id`=5
+[2018-05-25 12:33:41] SELECT * FROM cz_category
+[2018-05-25 14:23:19] set names utf8
+[2018-05-25 14:23:19] DESC cz_category
+[2018-05-25 14:23:19] SELECT * FROM cz_category
+[2018-05-25 14:23:24] set names utf8
+[2018-05-25 14:23:24] DESC cz_category
+[2018-05-25 14:23:24] select * from `cz_category` where `cat_id`=6
+[2018-05-25 14:23:24] SELECT * FROM cz_category
+[2018-05-25 14:23:29] set names utf8
+[2018-05-25 14:23:29] DESC cz_category
+[2018-05-25 14:23:29] UPDATE `cz_category` SET `cat_name`='手机',`unit`='个',`sort_order`='50',`cat_desc`='手机好',`parent_id`='0',`is_show`='1' WHERE `cat_id`=6
+[2018-05-25 14:23:36] set names utf8
+[2018-05-25 14:23:36] DESC cz_category
+[2018-05-25 14:23:36] SELECT * FROM cz_category
+[2018-05-25 14:24:23] set names utf8
+[2018-05-25 14:24:23] DESC cz_category
+[2018-05-25 14:24:23] SELECT * FROM cz_category
+[2018-05-25 14:24:25] set names utf8
+[2018-05-25 14:24:25] DESC cz_category
+[2018-05-25 14:24:25] select * from `cz_category` where `cat_id`=6
+[2018-05-25 14:24:25] SELECT * FROM cz_category
+[2018-05-25 14:24:27] set names utf8
+[2018-05-25 14:24:27] DESC cz_category
+[2018-05-25 14:24:27] select * from `cz_category` where `cat_id`=6
+[2018-05-25 14:24:27] SELECT * FROM cz_category
+[2018-05-25 14:24:32] set names utf8
+[2018-05-25 14:24:32] DESC cz_category
+[2018-05-25 14:24:32] UPDATE `cz_category` SET `cat_name`='手机',`unit`='个',`sort_order`='50',`cat_desc`='手机好不好',`parent_id`='0',`is_show`='1' WHERE `cat_id`=6
+[2018-05-25 14:24:32] UPDATE `cz_category` SET `cat_name`='手机',`unit`='个',`sort_order`='50',`cat_desc`='手机好不好',`parent_id`='0',`is_show`='1' WHERE `cat_id`=6
+[2018-05-25 14:24:33] set names utf8
+[2018-05-25 14:24:33] DESC cz_category
+[2018-05-25 14:24:33] SELECT * FROM cz_category
+[2018-05-25 14:30:41] set names utf8
+[2018-05-25 14:30:41] DESC cz_category
+[2018-05-25 14:30:41] SELECT * FROM cz_category
+[2018-05-25 14:33:33] set names utf8
+[2018-05-25 14:33:33] DESC cz_category
+[2018-05-25 14:33:33] SELECT * FROM cz_category
+[2018-05-25 14:39:56] set names utf8
+[2018-05-25 14:39:56] DESC cz_category
+[2018-05-25 14:39:56] SELECT * FROM cz_category
+[2018-05-25 14:40:17] set names utf8
+[2018-05-25 14:40:17] DESC cz_category
+[2018-05-25 14:40:17] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('男装','件','50','男装','5','1')
+[2018-05-25 14:40:18] set names utf8
+[2018-05-25 14:40:18] DESC cz_category
+[2018-05-25 14:40:18] SELECT * FROM cz_category
+[2018-05-25 14:40:27] set names utf8
+[2018-05-25 14:40:27] DESC cz_category
+[2018-05-25 14:40:27] SELECT * FROM cz_category
+[2018-05-25 14:40:53] set names utf8
+[2018-05-25 14:40:53] DESC cz_category
+[2018-05-25 14:40:53] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('女装','件','50','女装','5','1')
+[2018-05-25 14:40:54] set names utf8
+[2018-05-25 14:40:54] DESC cz_category
+[2018-05-25 14:40:54] SELECT * FROM cz_category
+[2018-05-25 14:40:59] set names utf8
+[2018-05-25 14:40:59] DESC cz_category
+[2018-05-25 14:40:59] SELECT * FROM cz_category
+[2018-05-25 14:41:13] set names utf8
+[2018-05-25 14:41:13] DESC cz_category
+[2018-05-25 14:41:13] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('小米8','台','50','小米8','6','1')
+[2018-05-25 14:41:14] set names utf8
+[2018-05-25 14:41:14] DESC cz_category
+[2018-05-25 14:41:14] SELECT * FROM cz_category
+[2018-05-25 14:41:19] set names utf8
+[2018-05-25 14:41:19] DESC cz_category
+[2018-05-25 14:41:19] SELECT * FROM cz_category
+[2018-05-25 14:41:38] set names utf8
+[2018-05-25 14:41:38] DESC cz_category
+[2018-05-25 14:41:38] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('苹果X','台','50','apple','6','1')
+[2018-05-25 14:41:39] set names utf8
+[2018-05-25 14:41:39] DESC cz_category
+[2018-05-25 14:41:39] SELECT * FROM cz_category
+[2018-05-25 15:00:46] set names utf8
+[2018-05-25 15:00:46] DESC cz_category
+[2018-05-25 15:00:46] SELECT * FROM cz_category
+[2018-05-25 15:21:24] set names utf8
+[2018-05-25 15:21:24] DESC cz_category
+[2018-05-25 15:21:24] SELECT * FROM cz_category
+[2018-05-25 15:21:37] set names utf8
+[2018-05-25 15:21:37] DESC cz_category
+[2018-05-25 15:21:37] SELECT * FROM cz_category
+[2018-05-25 15:24:38] set names utf8
+[2018-05-25 15:24:38] DESC cz_category
+[2018-05-25 15:24:38] SELECT * FROM cz_category
+[2018-05-25 15:24:41] set names utf8
+[2018-05-25 15:24:41] DESC cz_category
+[2018-05-25 15:24:41] select * from `cz_category` where `cat_id`=7
+[2018-05-25 15:24:41] SELECT * FROM cz_category
+[2018-05-25 15:25:06] set names utf8
+[2018-05-25 15:25:06] DESC cz_category
+[2018-05-25 15:25:06] SELECT * FROM cz_category
+[2018-05-25 15:25:09] set names utf8
+[2018-05-25 15:25:09] DESC cz_category
+[2018-05-25 15:25:09] select * from `cz_category` where `cat_id`=5
+[2018-05-25 15:25:09] SELECT * FROM cz_category
+[2018-05-25 15:46:39] set names utf8
+[2018-05-25 15:46:39] DESC cz_category
+[2018-05-25 15:46:39] select * from `cz_category` where `cat_id`=5
+[2018-05-25 15:46:39] SELECT * FROM cz_category
+[2018-05-25 15:46:56] set names utf8
+[2018-05-25 15:46:56] DESC cz_category
+[2018-05-25 15:46:56] SELECT * FROM cz_category
+[2018-05-25 15:47:01] set names utf8
+[2018-05-25 15:47:01] DESC cz_category
+[2018-05-25 15:47:01] select * from `cz_category` where `cat_id`=5
+[2018-05-25 15:47:01] SELECT * FROM cz_category
+[2018-05-25 15:48:43] set names utf8
+[2018-05-25 15:48:43] DESC cz_category
+[2018-05-25 15:48:43] SELECT * FROM cz_category
+[2018-05-25 15:48:43] UPDATE `cz_category` SET `cat_name`='男女服装',`unit`='个',`sort_order`='50',`cat_desc`='1111',`parent_id`='8',`is_show`='1' WHERE `cat_id`=5
+[2018-05-25 15:48:43] UPDATE `cz_category` SET `cat_name`='男女服装',`unit`='个',`sort_order`='50',`cat_desc`='1111',`parent_id`='8',`is_show`='1' WHERE `cat_id`=5
+[2018-05-25 15:48:44] set names utf8
+[2018-05-25 15:48:44] DESC cz_category
+[2018-05-25 15:48:44] SELECT * FROM cz_category
+[2018-05-25 15:48:54] set names utf8
+[2018-05-25 15:48:54] DESC cz_category
+[2018-05-25 15:48:54] SELECT * FROM cz_category
+[2018-05-25 15:50:45] set names utf8
+[2018-05-25 15:50:45] DESC cz_category
+[2018-05-25 15:50:45] SELECT * FROM cz_category
+[2018-05-25 15:50:51] set names utf8
+[2018-05-25 15:50:51] DESC cz_category
+[2018-05-25 15:50:52] select * from `cz_category` where `cat_id`=9
+[2018-05-25 15:50:52] SELECT * FROM cz_category
+[2018-05-25 15:50:56] set names utf8
+[2018-05-25 15:50:56] DESC cz_category
+[2018-05-25 15:50:56] SELECT * FROM cz_category
+[2018-05-25 15:50:56] UPDATE `cz_category` SET `cat_name`='小米8',`unit`='台',`sort_order`='50',`cat_desc`='小米8',`parent_id`='10',`is_show`='1' WHERE `cat_id`=9
+[2018-05-25 15:50:56] UPDATE `cz_category` SET `cat_name`='小米8',`unit`='台',`sort_order`='50',`cat_desc`='小米8',`parent_id`='10',`is_show`='1' WHERE `cat_id`=9
+[2018-05-25 15:50:57] set names utf8
+[2018-05-25 15:50:57] DESC cz_category
+[2018-05-25 15:50:57] SELECT * FROM cz_category
+[2018-05-25 15:51:04] set names utf8
+[2018-05-25 15:51:04] DESC cz_category
+[2018-05-25 15:51:04] select * from `cz_category` where `cat_id`=9
+[2018-05-25 15:51:04] SELECT * FROM cz_category
+[2018-05-25 15:51:09] set names utf8
+[2018-05-25 15:51:09] DESC cz_category
+[2018-05-25 15:51:09] SELECT * FROM cz_category
+[2018-05-25 15:51:09] UPDATE `cz_category` SET `cat_name`='小米8',`unit`='台',`sort_order`='50',`cat_desc`='小米8',`parent_id`='0',`is_show`='1' WHERE `cat_id`=9
+[2018-05-25 15:51:09] UPDATE `cz_category` SET `cat_name`='小米8',`unit`='台',`sort_order`='50',`cat_desc`='小米8',`parent_id`='0',`is_show`='1' WHERE `cat_id`=9
+[2018-05-25 15:51:10] set names utf8
+[2018-05-25 15:51:10] DESC cz_category
+[2018-05-25 15:51:10] SELECT * FROM cz_category
+[2018-05-25 15:51:15] set names utf8
+[2018-05-25 15:51:15] DESC cz_category
+[2018-05-25 15:51:15] select * from `cz_category` where `cat_id`=6
+[2018-05-25 15:51:15] SELECT * FROM cz_category
+[2018-05-25 15:51:21] set names utf8
+[2018-05-25 15:51:21] DESC cz_category
+[2018-05-25 15:51:21] SELECT * FROM cz_category
+[2018-05-25 15:51:21] UPDATE `cz_category` SET `cat_name`='手机',`unit`='个',`sort_order`='50',`cat_desc`='手机好不好',`parent_id`='10',`is_show`='1' WHERE `cat_id`=6
+[2018-05-25 15:51:21] UPDATE `cz_category` SET `cat_name`='手机',`unit`='个',`sort_order`='50',`cat_desc`='手机好不好',`parent_id`='10',`is_show`='1' WHERE `cat_id`=6
+[2018-05-25 15:51:22] set names utf8
+[2018-05-25 15:51:22] DESC cz_category
+[2018-05-25 15:51:22] SELECT * FROM cz_category
+[2018-05-25 15:51:28] set names utf8
+[2018-05-25 15:51:28] DESC cz_category
+[2018-05-25 15:51:28] SELECT * FROM cz_category
+[2018-05-25 15:51:48] set names utf8
+[2018-05-25 15:51:48] DESC cz_category
+[2018-05-25 15:51:48] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('服装','件','50','11111','0','1')
+[2018-05-25 15:51:49] set names utf8
+[2018-05-25 15:51:49] DESC cz_category
+[2018-05-25 15:51:49] SELECT * FROM cz_category
+[2018-05-25 15:51:55] set names utf8
+[2018-05-25 15:51:55] DESC cz_category
+[2018-05-25 15:51:55] SELECT * FROM cz_category
+[2018-05-25 15:52:06] set names utf8
+[2018-05-25 15:52:06] DESC cz_category
+[2018-05-25 15:52:06] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('男装','件','50','1111','11','1')
+[2018-05-25 15:52:07] set names utf8
+[2018-05-25 15:52:07] DESC cz_category
+[2018-05-25 15:52:07] SELECT * FROM cz_category
+[2018-05-25 15:55:35] set names utf8
+[2018-05-25 15:55:35] DESC cz_category
+[2018-05-25 15:55:35] select * from `cz_category` where `cat_id`=11
+[2018-05-25 15:55:35] SELECT * FROM cz_category
+[2018-05-25 15:55:39] set names utf8
+[2018-05-25 15:55:39] DESC cz_category
+[2018-05-25 15:55:39] SELECT * FROM cz_category
+[2018-05-25 15:56:17] set names utf8
+[2018-05-25 15:56:17] DESC cz_category
+[2018-05-25 15:56:17] SELECT * FROM cz_category
+[2018-05-25 15:56:21] set names utf8
+[2018-05-25 15:56:21] DESC cz_category
+[2018-05-25 15:56:21] select * from `cz_category` where `cat_id`=11
+[2018-05-25 15:56:21] SELECT * FROM cz_category
+[2018-05-25 15:56:25] set names utf8
+[2018-05-25 15:56:25] DESC cz_category
+[2018-05-25 15:56:25] SELECT * FROM cz_category
+[2018-05-25 15:56:26] set names utf8
+[2018-05-25 15:56:26] DESC cz_category
+[2018-05-25 15:56:26] select * from `cz_category` where `cat_id`=11
+[2018-05-25 15:56:26] SELECT * FROM cz_category
+[2018-05-25 15:56:37] set names utf8
+[2018-05-25 15:56:37] DESC cz_category
+[2018-05-25 15:56:37] SELECT * FROM cz_category
+[2018-05-25 15:59:31] set names utf8
+[2018-05-25 15:59:31] DESC cz_category
+[2018-05-25 15:59:31] SELECT * FROM cz_category
+[2018-05-25 15:59:32] set names utf8
+[2018-05-25 15:59:32] DESC cz_category
+[2018-05-25 15:59:32] SELECT * FROM cz_category
+[2018-05-25 15:59:53] set names utf8
+[2018-05-25 15:59:53] DESC cz_category
+[2018-05-25 15:59:53] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('服装','件','50','顶级层  服装','0','1')
+[2018-05-25 15:59:54] set names utf8
+[2018-05-25 15:59:54] DESC cz_category
+[2018-05-25 15:59:54] SELECT * FROM cz_category
+[2018-05-25 15:59:58] set names utf8
+[2018-05-25 15:59:58] DESC cz_category
+[2018-05-25 15:59:58] SELECT * FROM cz_category
+[2018-05-25 16:00:20] set names utf8
+[2018-05-25 16:00:20] DESC cz_category
+[2018-05-25 16:00:20] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('男装','件','50','男装','1','1')
+[2018-05-25 16:00:21] set names utf8
+[2018-05-25 16:00:21] DESC cz_category
+[2018-05-25 16:00:21] SELECT * FROM cz_category
+[2018-05-25 16:00:25] set names utf8
+[2018-05-25 16:00:25] DESC cz_category
+[2018-05-25 16:00:25] SELECT * FROM cz_category
+[2018-05-25 16:00:45] set names utf8
+[2018-05-25 16:00:45] DESC cz_category
+[2018-05-25 16:00:45] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('女装','件','50','女装','1','1')
+[2018-05-25 16:00:46] set names utf8
+[2018-05-25 16:00:46] DESC cz_category
+[2018-05-25 16:00:46] SELECT * FROM cz_category
+[2018-05-25 16:08:56] set names utf8
+[2018-05-25 16:08:56] DESC cz_category
+[2018-05-25 16:08:56] SELECT * FROM cz_category
+[2018-05-25 16:08:59] set names utf8
+[2018-05-25 16:08:59] DESC cz_category
+[2018-05-25 16:08:59] SELECT * FROM cz_category
+[2018-05-25 16:09:00] set names utf8
+[2018-05-25 16:09:00] DESC cz_category
+[2018-05-25 16:09:00] SELECT * FROM cz_category
+[2018-05-25 16:24:18] set names utf8
+[2018-05-25 16:24:18] DESC cz_brand
+[2018-05-25 16:24:18] INSERT INTO `cz_brand` (`brand_name`,`url`,`brand_desc`,`sort_order`,`is_show`) VALUES ('小米','www.xiaomi.com','小米手机就是好','50','1')
+[2018-05-25 16:27:33] set names utf8
+[2018-05-25 16:27:33] DESC cz_brand
+[2018-05-25 16:27:33] SELECT * FROM cz_brand
+[2018-05-25 16:27:52] set names utf8
+[2018-05-25 16:27:52] DESC cz_brand
+[2018-05-25 16:27:52] SELECT * FROM cz_brand
+[2018-05-25 16:31:21] set names utf8
+[2018-05-25 16:31:21] DESC cz_brand
+[2018-05-25 16:31:21] SELECT * FROM cz_brand
+[2018-05-25 16:31:23] set names utf8
+[2018-05-25 16:31:23] DESC cz_brand
+[2018-05-25 16:31:23] DELETE FROM `cz_brand` WHERE `brand_id`=0
+[2018-05-25 16:31:24] set names utf8
+[2018-05-25 16:31:24] DESC cz_brand
+[2018-05-25 16:31:24] SELECT * FROM cz_brand
+[2018-05-25 16:31:26] set names utf8
+[2018-05-25 16:31:26] DESC cz_brand
+[2018-05-25 16:31:26] DELETE FROM `cz_brand` WHERE `brand_id`=0
+[2018-05-25 16:31:27] set names utf8
+[2018-05-25 16:31:27] DESC cz_brand
+[2018-05-25 16:31:27] SELECT * FROM cz_brand
+[2018-05-25 16:31:29] set names utf8
+[2018-05-25 16:31:29] DESC cz_brand
+[2018-05-25 16:31:29] SELECT * FROM cz_brand
+[2018-05-25 16:31:34] set names utf8
+[2018-05-25 16:31:34] DESC cz_brand
+[2018-05-25 16:31:34] SELECT * FROM cz_brand
+[2018-05-25 16:31:35] set names utf8
+[2018-05-25 16:31:35] DESC cz_brand
+[2018-05-25 16:31:35] SELECT * FROM cz_brand
+[2018-05-25 16:31:36] set names utf8
+[2018-05-25 16:31:36] DESC cz_category
+[2018-05-25 16:31:36] SELECT * FROM cz_category
+[2018-05-25 16:31:36] set names utf8
+[2018-05-25 16:31:36] DESC cz_brand
+[2018-05-25 16:31:36] SELECT * FROM cz_brand
+[2018-05-25 16:31:36] set names utf8
+[2018-05-25 16:31:36] DESC cz_brand
+[2018-05-25 16:31:36] SELECT * FROM cz_brand
+[2018-05-25 16:31:37] set names utf8
+[2018-05-25 16:31:37] DESC cz_brand
+[2018-05-25 16:31:37] SELECT * FROM cz_brand
+[2018-05-25 16:31:37] set names utf8
+[2018-05-25 16:31:37] DESC cz_category
+[2018-05-25 16:31:37] SELECT * FROM cz_category
+[2018-05-25 16:31:38] set names utf8
+[2018-05-25 16:31:38] DESC cz_category
+[2018-05-25 16:31:38] SELECT * FROM cz_category
+[2018-05-25 16:31:38] set names utf8
+[2018-05-25 16:31:38] DESC cz_brand
+[2018-05-25 16:31:38] SELECT * FROM cz_brand
+[2018-05-25 16:31:38] set names utf8
+[2018-05-25 16:31:38] DESC cz_brand
+[2018-05-25 16:31:38] SELECT * FROM cz_brand
+[2018-05-25 16:31:39] set names utf8
+[2018-05-25 16:31:39] DESC cz_brand
+[2018-05-25 16:31:39] SELECT * FROM cz_brand
+[2018-05-25 16:31:40] set names utf8
+[2018-05-25 16:31:40] DESC cz_category
+[2018-05-25 16:31:40] SELECT * FROM cz_category
+[2018-05-25 16:31:41] set names utf8
+[2018-05-25 16:31:41] DESC cz_brand
+[2018-05-25 16:31:41] SELECT * FROM cz_brand
+[2018-05-25 16:31:41] set names utf8
+[2018-05-25 16:31:41] DESC cz_brand
+[2018-05-25 16:31:41] SELECT * FROM cz_brand
+[2018-05-25 16:31:41] set names utf8
+[2018-05-25 16:31:41] DESC cz_brand
+[2018-05-25 16:31:41] SELECT * FROM cz_brand
+[2018-05-25 16:31:41] set names utf8
+[2018-05-25 16:31:41] DESC cz_brand
+[2018-05-25 16:31:41] SELECT * FROM cz_brand
+[2018-05-25 16:31:44] set names utf8
+[2018-05-25 16:31:44] DESC cz_category
+[2018-05-25 16:31:44] SELECT * FROM cz_category
+[2018-05-25 16:31:46] set names utf8
+[2018-05-25 16:31:46] DESC cz_category
+[2018-05-25 16:31:46] SELECT * FROM cz_category
+[2018-05-25 16:31:47] set names utf8
+[2018-05-25 16:31:47] DESC cz_brand
+[2018-05-25 16:31:47] SELECT * FROM cz_brand
+[2018-05-25 16:31:50] set names utf8
+[2018-05-25 16:31:50] DESC cz_brand
+[2018-05-25 16:31:50] DELETE FROM `cz_brand` WHERE `brand_id`=0
+[2018-05-25 16:31:51] set names utf8
+[2018-05-25 16:31:51] DESC cz_brand
+[2018-05-25 16:31:51] SELECT * FROM cz_brand
+[2018-05-25 16:32:19] set names utf8
+[2018-05-25 16:32:19] DESC cz_brand
+[2018-05-25 16:32:19] SELECT * FROM cz_brand
+[2018-05-25 16:32:23] set names utf8
+[2018-05-25 16:32:23] DESC cz_brand
+[2018-05-25 16:32:23] DELETE FROM `cz_brand` WHERE `brand_id`=1
+[2018-05-25 16:32:24] set names utf8
+[2018-05-25 16:32:24] DESC cz_brand
+[2018-05-25 16:32:24] SELECT * FROM cz_brand
+[2018-05-25 16:32:43] set names utf8
+[2018-05-25 16:32:43] DESC cz_brand
+[2018-05-25 16:32:43] INSERT INTO `cz_brand` (`brand_name`,`url`,`brand_desc`,`sort_order`,`is_show`) VALUES ('苹果','www.apple.com','好','50','1')
+[2018-05-25 16:32:44] set names utf8
+[2018-05-25 16:32:44] DESC cz_brand
+[2018-05-25 16:32:44] SELECT * FROM cz_brand
+[2018-05-25 17:41:12] set names utf8
+[2018-05-25 17:41:12] DESC cz_admin
+[2018-05-25 17:41:12] SELECT * FROM cz_admin WHERE admin_name = 'admin'
+            AND password = 'admin' LIMIT 1
+[2018-05-25 17:42:16] set names utf8
+[2018-05-25 17:42:16] DESC cz_admin
+[2018-05-25 17:42:16] SELECT * FROM cz_admin WHERE admin_name = 'admin'
+            AND password = 'admin' LIMIT 1
+[2018-05-25 17:42:23] set names utf8
+[2018-05-25 17:42:23] DESC cz_admin
+[2018-05-25 17:42:23] SELECT * FROM cz_admin WHERE admin_name = 'admin'
+            AND password = 'admin' LIMIT 1
+[2018-05-25 17:43:08] set names utf8
+[2018-05-25 17:43:08] DESC cz_admin
+[2018-05-25 17:43:08] SELECT * FROM cz_admin WHERE admin_name = 'admin'
+            AND password = 'admin' LIMIT 1
+[2018-05-25 17:45:09] set names utf8
+[2018-05-25 17:45:09] DESC cz_admin
+[2018-05-25 17:45:09] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:46:22] set names utf8
+[2018-05-25 17:46:22] DESC cz_admin
+[2018-05-25 17:46:22] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:47:18] set names utf8
+[2018-05-25 17:47:18] DESC cz_admin
+[2018-05-25 17:47:18] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:48:09] set names utf8
+[2018-05-25 17:48:09] DESC cz_admin
+[2018-05-25 17:48:09] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:48:09] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:48:11] set names utf8
+[2018-05-25 17:48:11] DESC cz_admin
+[2018-05-25 17:48:11] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:48:11] SELECT * FROM cz_admin WHERE admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:49:59] set names utf8
+[2018-05-25 17:49:59] DESC cz_admin
+[2018-05-25 17:49:59] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:49:59] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:55:21] set names utf8
+[2018-05-25 17:55:21] DESC cz_admin
+[2018-05-25 17:55:21] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:55:21] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = 'admin' LIMIT 1
+[2018-05-25 17:59:26] set names utf8
+[2018-05-25 17:59:26] DESC cz_admin
+[2018-05-25 17:59:39] set names utf8
+[2018-05-25 17:59:39] DESC cz_admin
+[2018-05-25 18:00:03] set names utf8
+[2018-05-25 18:00:03] DESC cz_admin
+[2018-05-26 09:00:44] set names utf8
+[2018-05-26 09:00:44] DESC cz_admin
+[2018-05-26 09:00:57] set names utf8
+[2018-05-26 09:00:57] DESC cz_admin
+[2018-05-26 09:01:51] set names utf8
+[2018-05-26 09:01:51] DESC cz_admin
+[2018-05-26 09:02:11] set names utf8
+[2018-05-26 09:02:11] DESC cz_admin
+[2018-05-26 09:02:32] set names utf8
+[2018-05-26 09:02:32] DESC cz_admin
+[2018-05-26 09:04:25] set names utf8
+[2018-05-26 09:04:25] DESC cz_admin
+[2018-05-26 09:04:25] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1
+[2018-05-26 09:04:31] set names utf8
+[2018-05-26 09:04:31] DESC cz_admin
+[2018-05-26 09:04:31] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1
+[2018-05-26 09:04:46] set names utf8
+[2018-05-26 09:04:46] DESC cz_admin
+[2018-05-26 09:04:46] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1
+[2018-05-26 09:05:36] set names utf8
+[2018-05-26 09:05:36] DESC cz_admin
+[2018-05-26 09:05:36] SELECT * FROM cz_admin WHERE 
+        admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1
+[2018-05-26 09:14:46] set names utf8
+[2018-05-26 09:14:46] DESC cz_admin
+[2018-05-26 09:14:46] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:14:59] set names utf8
+[2018-05-26 09:14:59] DESC cz_admin
+[2018-05-26 09:14:59] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:14:59] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:15:04] set names utf8
+[2018-05-26 09:15:04] DESC cz_admin
+[2018-05-26 09:15:04] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:15:04] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:15:54] set names utf8
+[2018-05-26 09:15:54] DESC cz_admin
+[2018-05-26 09:15:54] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:15:54] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:16:26] set names utf8
+[2018-05-26 09:16:26] DESC cz_admin
+[2018-05-26 09:16:26] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:16:44] set names utf8
+[2018-05-26 09:16:44] DESC cz_admin
+[2018-05-26 09:16:44] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:16:56] set names utf8
+[2018-05-26 09:16:56] DESC cz_admin
+[2018-05-26 09:16:56] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:17:02] set names utf8
+[2018-05-26 09:17:02] DESC cz_admin
+[2018-05-26 09:17:02] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:18:19] set names utf8
+[2018-05-26 09:18:19] DESC cz_admin
+[2018-05-26 09:18:19] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:18:23] set names utf8
+[2018-05-26 09:18:23] DESC cz_admin
+[2018-05-26 09:18:23] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:18:37] set names utf8
+[2018-05-26 09:18:37] DESC cz_admin
+[2018-05-26 09:18:37] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:29:06] set names utf8
+[2018-05-26 09:29:06] DESC cz_admin
+[2018-05-26 09:29:06] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:32:56] set names utf8
+[2018-05-26 09:32:56] DESC cz_admin
+[2018-05-26 09:32:56] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:58:51] set names utf8
+[2018-05-26 09:58:51] DESC cz_admin
+[2018-05-26 09:58:51] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 09:59:14] set names utf8
+[2018-05-26 09:59:14] DESC cz_admin
+[2018-05-26 09:59:14] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 10:17:40] set names utf8
+[2018-05-26 10:17:40] DESC cz_admin
+[2018-05-26 10:17:40] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxxx' AND password = 'e747940143cedc0d7cc1f20c3cd47719'
+		       LIMIT 1
+[2018-05-26 10:18:09] set names utf8
+[2018-05-26 10:18:09] DESC cz_admin
+[2018-05-26 10:18:09] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 10:18:20] set names utf8
+[2018-05-26 10:18:20] DESC cz_admin
+[2018-05-26 10:18:20] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = 'e747940143cedc0d7cc1f20c3cd47719'
+		       LIMIT 1
+[2018-05-26 10:18:59] set names utf8
+[2018-05-26 10:18:59] DESC cz_admin
+[2018-05-26 10:18:59] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxxx' AND password = 'e747940143cedc0d7cc1f20c3cd47719'
+		       LIMIT 1
+[2018-05-26 10:19:39] set names utf8
+[2018-05-26 10:19:39] DESC cz_admin
+[2018-05-26 10:19:39] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = 'xxx' or '1'
+		       LIMIT 1
+[2018-05-26 10:22:15] set names utf8
+[2018-05-26 10:22:15] DESC cz_admin
+[2018-05-26 10:28:21] set names utf8
+[2018-05-26 10:28:21] DESC cz_admin
+[2018-05-26 10:32:22] set names utf8
+[2018-05-26 10:32:22] DESC cz_admin
+[2018-05-26 10:33:27] set names utf8
+[2018-05-26 10:33:27] DESC cz_admin
+[2018-05-26 10:44:16] set names utf8
+[2018-05-26 10:44:16] DESC cz_admin
+[2018-05-26 10:44:16] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxx' or 1#' AND password = 'b59c67bf196a4758191e42f76670ceba'
+		       LIMIT 1
+[2018-05-26 10:44:30] set names utf8
+[2018-05-26 10:44:30] DESC cz_admin
+[2018-05-26 10:44:30] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxx' or 1#' AND password = 'b59c67bf196a4758191e42f76670ceba'
+		       LIMIT 1
+[2018-05-26 10:44:38] set names utf8
+[2018-05-26 10:44:38] DESC cz_admin
+[2018-05-26 10:44:38] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxx' or 1#' AND password = '698d51a19d8a121ce581499d7b701668'
+		       LIMIT 1
+[2018-05-26 11:59:55] set names utf8
+[2018-05-26 11:59:55] DESC cz_admin
+[2018-05-26 11:59:55] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxx\' or 1#' AND password = 'b59c67bf196a4758191e42f76670ceba'
+		       LIMIT 1
+[2018-05-26 12:00:09] set names utf8
+[2018-05-26 12:00:09] DESC cz_admin
+[2018-05-26 12:00:09] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 12:01:30] set names utf8
+[2018-05-26 12:01:30] DESC cz_admin
+[2018-05-26 12:09:31] set names utf8
+[2018-05-26 12:09:31] DESC cz_admin
+[2018-05-26 12:09:31] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'xxx\\\' or 1#' AND password = 'b59c67bf196a4758191e42f76670ceba'
+		       LIMIT 1
+[2018-05-26 12:09:35] set names utf8
+[2018-05-26 12:09:35] DESC cz_admin
+[2018-05-26 12:09:35] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 12:09:39] set names utf8
+[2018-05-26 12:09:39] DESC cz_category
+[2018-05-26 12:09:39] SELECT * FROM cz_category
+[2018-05-26 12:09:43] set names utf8
+[2018-05-26 12:09:43] DESC cz_category
+[2018-05-26 12:09:43] select * from `cz_category` where `cat_id`=1
+[2018-05-26 12:09:43] SELECT * FROM cz_category
+[2018-05-26 12:09:50] set names utf8
+[2018-05-26 12:09:50] DESC cz_category
+[2018-05-26 12:09:50] SELECT * FROM cz_category
+[2018-05-26 12:09:50] UPDATE `cz_category` SET `cat_name`='服装',`unit`='件',`sort_order`='50',`cat_desc`='顶级层  服装',`parent_id`='0',`is_show`='1' WHERE `cat_id`=1
+[2018-05-26 12:09:50] UPDATE `cz_category` SET `cat_name`='服装',`unit`='件',`sort_order`='50',`cat_desc`='顶级层  服装',`parent_id`='0',`is_show`='1' WHERE `cat_id`=1
+[2018-05-26 12:09:51] set names utf8
+[2018-05-26 12:09:51] DESC cz_category
+[2018-05-26 12:09:51] SELECT * FROM cz_category
+[2018-05-26 12:09:54] set names utf8
+[2018-05-26 12:09:54] DESC cz_category
+[2018-05-26 12:09:54] SELECT * FROM cz_category
+[2018-05-26 12:10:42] set names utf8
+[2018-05-26 12:10:42] DESC cz_category
+[2018-05-26 12:10:42] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('恶作剧','1','50','<script>alert('hello');</script>','0','1')
+[2018-05-26 12:10:51] set names utf8
+[2018-05-26 12:10:51] DESC cz_category
+[2018-05-26 12:10:51] SELECT * FROM cz_category
+[2018-05-26 12:10:56] set names utf8
+[2018-05-26 12:10:56] DESC cz_category
+[2018-05-26 12:10:56] SELECT * FROM cz_category
+[2018-05-26 12:12:06] set names utf8
+[2018-05-26 12:12:06] DESC cz_category
+[2018-05-26 12:12:06] SELECT * FROM cz_category
+[2018-05-26 12:12:34] set names utf8
+[2018-05-26 12:12:34] DESC cz_category
+[2018-05-26 12:12:34] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('1111','','50','<script>alter('hello')</script>','0','1')
+[2018-05-26 12:16:02] set names utf8
+[2018-05-26 12:16:02] DESC cz_admin
+[2018-05-26 12:16:02] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 12:16:05] set names utf8
+[2018-05-26 12:16:05] DESC cz_category
+[2018-05-26 12:16:05] SELECT * FROM cz_category
+[2018-05-26 12:16:09] set names utf8
+[2018-05-26 12:16:09] DESC cz_category
+[2018-05-26 12:16:09] SELECT * FROM cz_category
+[2018-05-26 12:16:54] set names utf8
+[2018-05-26 12:16:54] DESC cz_category
+[2018-05-26 12:16:54] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('手机','件','50','<script>alter('hello')</script>','0','1')
+[2018-05-26 12:18:15] set names utf8
+[2018-05-26 12:18:15] DESC cz_category
+[2018-05-26 12:18:15] SELECT * FROM cz_category
+[2018-05-26 12:18:17] set names utf8
+[2018-05-26 12:18:17] DESC cz_category
+[2018-05-26 12:18:17] SELECT * FROM cz_category
+[2018-05-26 12:18:37] set names utf8
+[2018-05-26 12:18:37] DESC cz_category
+[2018-05-26 12:18:37] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('手机','件','50','<script>','0','1')
+[2018-05-26 12:18:38] set names utf8
+[2018-05-26 12:18:38] DESC cz_category
+[2018-05-26 12:18:38] SELECT * FROM cz_category
+[2018-05-26 12:19:22] set names utf8
+[2018-05-26 12:19:22] DESC cz_category
+[2018-05-26 12:19:22] SELECT * FROM cz_category
+[2018-05-26 12:19:24] set names utf8
+[2018-05-26 12:19:24] DESC cz_category
+[2018-05-26 12:19:24] SELECT * FROM cz_category
+[2018-05-26 12:19:44] set names utf8
+[2018-05-26 12:19:44] DESC cz_category
+[2018-05-26 12:19:44] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('小米8','件','50','&lt;script&gt;','0','1')
+[2018-05-26 12:19:45] set names utf8
+[2018-05-26 12:19:45] DESC cz_category
+[2018-05-26 12:19:45] SELECT * FROM cz_category
+[2018-05-26 12:19:52] set names utf8
+[2018-05-26 12:19:52] DESC cz_category
+[2018-05-26 12:19:52] SELECT * FROM cz_category
+[2018-05-26 12:19:54] set names utf8
+[2018-05-26 12:19:54] DESC cz_category
+[2018-05-26 12:19:54] SELECT * FROM cz_category
+[2018-05-26 12:20:00] set names utf8
+[2018-05-26 12:20:00] DESC cz_category
+[2018-05-26 12:20:00] SELECT * FROM cz_category
+[2018-05-26 13:58:18] set names utf8
+[2018-05-26 13:58:18] DESC cz_category
+[2018-05-26 13:58:18] SELECT * FROM cz_category
+[2018-05-26 13:59:28] set names utf8
+[2018-05-26 13:59:28] DESC cz_admin
+[2018-05-26 13:59:29] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 13:59:36] set names utf8
+[2018-05-26 13:59:36] DESC cz_admin
+[2018-05-26 13:59:36] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 13:59:41] set names utf8
+[2018-05-26 13:59:41] DESC cz_admin
+[2018-05-26 13:59:41] SELECT * FROM cz_admin WHERE 
+		       admin_name = '11111' AND password = 'b59c67bf196a4758191e42f76670ceba'
+		       LIMIT 1
+[2018-05-26 14:03:14] set names utf8
+[2018-05-26 14:03:15] DESC cz_admin
+[2018-05-26 14:03:15] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-26 14:03:22] set names utf8
+[2018-05-26 14:03:22] DESC cz_category
+[2018-05-26 14:03:22] SELECT * FROM cz_category
+[2018-05-26 14:32:51] set names utf8
+[2018-05-26 14:32:51] DESC cz_brand
+[2018-05-26 14:32:51] SELECT * FROM cz_brand
+[2018-05-26 14:46:18] set names utf8
+[2018-05-26 14:46:18] DESC cz_goods_type
+[2018-05-26 14:46:18] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('手机')
+[2018-05-26 14:46:23] set names utf8
+[2018-05-26 14:46:23] DESC cz_goods_type
+[2018-05-26 14:46:23] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('手机')
+[2018-05-26 14:49:48] set names utf8
+[2018-05-26 14:49:48] DESC cz_category
+[2018-05-26 14:49:48] SELECT * FROM cz_category
+[2018-05-26 14:49:56] set names utf8
+[2018-05-26 14:49:56] DESC cz_brand
+[2018-05-26 14:49:56] SELECT * FROM cz_brand
+[2018-05-26 15:02:55] set names utf8
+[2018-05-26 15:02:55] DESC cz_goods_type
+[2018-05-26 15:02:55] SELECT * FROM cz_goods_type
+[2018-05-26 15:03:50] set names utf8
+[2018-05-26 15:03:50] DESC cz_goods_type
+[2018-05-26 15:03:50] SELECT * FROM cz_goods_type
+[2018-05-26 15:05:50] set names utf8
+[2018-05-26 15:05:50] DESC cz_goods_type
+[2018-05-26 15:05:50] SELECT * FROM cz_goods_type
+[2018-05-26 15:06:19] set names utf8
+[2018-05-26 15:06:19] DESC cz_goods_type
+[2018-05-26 15:06:19] SELECT * FROM cz_goods_type
+[2018-05-26 15:12:09] set names utf8
+[2018-05-26 15:12:09] DESC cz_goods_type
+[2018-05-26 15:12:09] SELECT * FROM cz_goods_type
+[2018-05-28 09:19:27] set names utf8
+[2018-05-28 09:19:27] DESC cz_admin
+[2018-05-28 09:19:27] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-28 09:43:53] set names utf8
+[2018-05-28 09:43:53] DESC cz_goods_type
+[2018-05-28 09:43:53] SELECT * FROM cz_goods_type
+[2018-05-28 10:27:42] set names utf8
+[2018-05-28 10:27:42] DESC cz_goods_type
+[2018-05-28 10:27:42] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:27:54] set names utf8
+[2018-05-28 10:27:54] DESC cz_goods_type
+[2018-05-28 10:27:54] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:28:23] set names utf8
+[2018-05-28 10:28:23] DESC cz_goods_type
+[2018-05-28 10:28:23] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:28:23] select count(*) from cz_goods_type
+[2018-05-28 10:28:40] set names utf8
+[2018-05-28 10:28:40] DESC cz_goods_type
+[2018-05-28 10:28:40] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:28:40] select count(*) from cz_goods_type
+[2018-05-28 10:28:58] set names utf8
+[2018-05-28 10:28:58] DESC cz_goods_type
+[2018-05-28 10:28:58] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:28:58] select count(*) from cz_goods_type
+[2018-05-28 10:29:08] set names utf8
+[2018-05-28 10:29:08] DESC cz_goods_type
+[2018-05-28 10:29:08] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('服装')
+[2018-05-28 10:29:09] set names utf8
+[2018-05-28 10:29:09] DESC cz_goods_type
+[2018-05-28 10:29:09] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:29:09] select count(*) from cz_goods_type
+[2018-05-28 10:29:16] set names utf8
+[2018-05-28 10:29:16] DESC cz_goods_type
+[2018-05-28 10:29:16] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('电脑')
+[2018-05-28 10:29:17] set names utf8
+[2018-05-28 10:29:17] DESC cz_goods_type
+[2018-05-28 10:29:17] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:29:17] select count(*) from cz_goods_type
+[2018-05-28 10:29:27] set names utf8
+[2018-05-28 10:29:27] DESC cz_goods_type
+[2018-05-28 10:29:27] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('箱包')
+[2018-05-28 10:29:28] set names utf8
+[2018-05-28 10:29:28] DESC cz_goods_type
+[2018-05-28 10:29:28] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:29:28] select count(*) from cz_goods_type
+[2018-05-28 10:29:31] set names utf8
+[2018-05-28 10:29:31] DESC cz_goods_type
+[2018-05-28 10:29:31] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 10:29:31] select count(*) from cz_goods_type
+[2018-05-28 10:29:36] set names utf8
+[2018-05-28 10:29:36] DESC cz_goods_type
+[2018-05-28 10:29:36] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:29:36] select count(*) from cz_goods_type
+[2018-05-28 10:30:08] set names utf8
+[2018-05-28 10:30:08] DESC cz_goods_type
+[2018-05-28 10:30:08] INSERT INTO `cz_goods_type` (`type_name`) VALUES ('书籍')
+[2018-05-28 10:30:09] set names utf8
+[2018-05-28 10:30:09] DESC cz_goods_type
+[2018-05-28 10:30:09] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:30:09] select count(*) from cz_goods_type
+[2018-05-28 10:30:13] set names utf8
+[2018-05-28 10:30:13] DESC cz_goods_type
+[2018-05-28 10:30:13] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 10:30:13] select count(*) from cz_goods_type
+[2018-05-28 10:30:16] set names utf8
+[2018-05-28 10:30:16] DESC cz_goods_type
+[2018-05-28 10:30:16] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:30:16] select count(*) from cz_goods_type
+[2018-05-28 10:46:30] set names utf8
+[2018-05-28 10:46:30] DESC cz_goods_type
+[2018-05-28 10:46:30] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:46:30] select count(*) from cz_goods_type
+[2018-05-28 10:46:40] set names utf8
+[2018-05-28 10:46:40] DESC cz_goods_type
+[2018-05-28 10:46:40] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:46:40] select count(*) from cz_goods_type
+[2018-05-28 10:50:16] set names utf8
+[2018-05-28 10:50:16] DESC cz_goods_type
+[2018-05-28 10:50:16] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:50:16] select count(*) from cz_goods_type
+[2018-05-28 10:52:03] set names utf8
+[2018-05-28 10:52:03] DESC cz_goods_type
+[2018-05-28 10:52:03] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 10:52:03] select count(*) from cz_goods_type
+[2018-05-28 11:52:17] set names utf8
+[2018-05-28 11:52:17] DESC cz_goods_type
+[2018-05-28 11:52:17] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 11:52:17] select count(*) from cz_goods_type
+[2018-05-28 12:06:59] set names utf8
+[2018-05-28 12:06:59] DESC cz_goods_type
+[2018-05-28 12:06:59] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 12:06:59] select count(*) from cz_goods_type
+[2018-05-28 12:10:28] set names utf8
+[2018-05-28 12:10:28] DESC cz_goods_type
+[2018-05-28 12:10:28] SELECT * FROM cz_goods_type
+[2018-05-28 12:22:13] set names utf8
+[2018-05-28 12:22:13] DESC cz_goods_type
+[2018-05-28 12:22:14] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 12:22:14] select count(*) from cz_goods_type
+[2018-05-28 13:56:27] set names utf8
+[2018-05-28 13:56:27] DESC cz_goods_type
+[2018-05-28 13:56:27] SELECT * FROM cz_goods_type
+[2018-05-28 13:59:06] set names utf8
+[2018-05-28 13:59:06] DESC cz_goods_type
+[2018-05-28 13:59:06] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 13:59:06] select count(*) from cz_goods_type
+[2018-05-28 13:59:12] set names utf8
+[2018-05-28 13:59:12] DESC cz_goods_type
+[2018-05-28 13:59:12] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 13:59:12] select count(*) from cz_goods_type
+[2018-05-28 14:01:48] set names utf8
+[2018-05-28 14:01:48] DESC cz_goods_type
+[2018-05-28 14:01:48] SELECT * FROM cz_goods_type
+[2018-05-28 14:08:24] set names utf8
+[2018-05-28 14:08:24] DESC cz_goods_type
+[2018-05-28 14:08:24] SELECT * FROM cz_goods_type
+[2018-05-28 14:09:21] set names utf8
+[2018-05-28 14:09:21] DESC cz_attribute
+[2018-05-28 14:09:21] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('分辨率','1','0','0','')
+[2018-05-28 14:09:22] set names utf8
+[2018-05-28 14:09:22] DESC cz_goods_type
+[2018-05-28 14:09:22] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:09:22] select count(*) from cz_goods_type
+[2018-05-28 14:09:31] set names utf8
+[2018-05-28 14:09:31] DESC cz_goods_type
+[2018-05-28 14:09:31] SELECT * FROM cz_goods_type
+[2018-05-28 14:09:38] set names utf8
+[2018-05-28 14:09:38] DESC cz_attribute
+[2018-05-28 14:09:38] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('分辨率','1','0','0','')
+[2018-05-28 14:09:39] set names utf8
+[2018-05-28 14:09:39] DESC cz_goods_type
+[2018-05-28 14:09:39] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:09:39] select count(*) from cz_goods_type
+[2018-05-28 14:14:21] set names utf8
+[2018-05-28 14:14:21] DESC cz_attribute
+[2018-05-28 14:14:21] SELECT * FROM cz_attribute
+[2018-05-28 14:15:04] set names utf8
+[2018-05-28 14:15:04] DESC cz_goods_type
+[2018-05-28 14:15:04] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:15:04] select count(*) from cz_goods_type
+[2018-05-28 14:15:09] set names utf8
+[2018-05-28 14:15:09] DESC cz_attribute
+[2018-05-28 14:15:09] SELECT * FROM cz_attribute
+[2018-05-28 14:33:17] set names utf8
+[2018-05-28 14:33:17] DESC cz_attribute
+[2018-05-28 14:33:17] SELECT * FROM cz_attribute WHERE type_id= 6 
+[2018-05-28 14:33:21] set names utf8
+[2018-05-28 14:33:21] DESC cz_attribute
+[2018-05-28 14:33:21] SELECT * FROM cz_attribute WHERE type_id= 6 
+[2018-05-28 14:34:24] set names utf8
+[2018-05-28 14:34:24] DESC cz_goods_type
+[2018-05-28 14:34:24] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:34:24] select count(*) from cz_goods_type
+[2018-05-28 14:34:28] set names utf8
+[2018-05-28 14:34:28] DESC cz_attribute
+[2018-05-28 14:34:28] SELECT * FROM cz_attribute WHERE type_id= 6 
+[2018-05-28 14:34:42] set names utf8
+[2018-05-28 14:34:42] DESC cz_goods_type
+[2018-05-28 14:34:42] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:34:42] select count(*) from cz_goods_type
+[2018-05-28 14:34:47] set names utf8
+[2018-05-28 14:34:47] DESC cz_attribute
+[2018-05-28 14:34:47] SELECT * FROM cz_attribute WHERE type_id= 6 
+[2018-05-28 14:34:54] set names utf8
+[2018-05-28 14:34:54] DESC cz_goods_type
+[2018-05-28 14:34:54] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:34:54] select count(*) from cz_goods_type
+[2018-05-28 14:34:59] set names utf8
+[2018-05-28 14:34:59] DESC cz_attribute
+[2018-05-28 14:34:59] SELECT * FROM cz_attribute WHERE type_id= 6 
+[2018-05-28 14:35:04] set names utf8
+[2018-05-28 14:35:04] DESC cz_brand
+[2018-05-28 14:35:04] SELECT * FROM cz_brand
+[2018-05-28 14:35:05] set names utf8
+[2018-05-28 14:35:05] DESC cz_goods_type
+[2018-05-28 14:35:05] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:35:05] select count(*) from cz_goods_type
+[2018-05-28 14:35:09] set names utf8
+[2018-05-28 14:35:09] DESC cz_goods_type
+[2018-05-28 14:35:09] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 14:35:09] select count(*) from cz_goods_type
+[2018-05-28 14:35:12] set names utf8
+[2018-05-28 14:35:12] DESC cz_attribute
+[2018-05-28 14:35:12] SELECT * FROM cz_attribute WHERE type_id= 1 
+[2018-05-28 14:36:28] set names utf8
+[2018-05-28 14:36:28] DESC cz_goods_type
+[2018-05-28 14:36:28] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 14:36:28] select count(*) from cz_goods_type
+[2018-05-28 14:39:09] set names utf8
+[2018-05-28 14:39:09] DESC cz_goods_type
+[2018-05-28 14:39:09] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 14:39:09] select count(*) from cz_goods_type
+[2018-05-28 14:39:11] set names utf8
+[2018-05-28 14:39:11] DESC cz_attribute
+[2018-05-28 14:39:11] SELECT * FROM cz_attribute WHERE type_id= 1 
+[2018-05-28 14:51:02] set names utf8
+[2018-05-28 14:51:02] DESC cz_attribute
+[2018-05-28 14:51:02] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 14:51:17] set names utf8
+[2018-05-28 14:51:17] DESC cz_attribute
+[2018-05-28 14:51:17] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 15:22:12] set names utf8
+[2018-05-28 15:22:12] DESC cz_attribute
+[2018-05-28 15:22:12] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 15:22:30] set names utf8
+[2018-05-28 15:22:30] DESC cz_attribute
+[2018-05-28 15:22:30] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 15:22:30] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:22:35] set names utf8
+[2018-05-28 15:22:35] DESC cz_goods_type
+[2018-05-28 15:22:35] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 15:22:35] select count(*) from cz_goods_type
+[2018-05-28 15:22:45] set names utf8
+[2018-05-28 15:22:45] DESC cz_goods_type
+[2018-05-28 15:22:45] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 15:22:45] select count(*) from cz_goods_type
+[2018-05-28 15:22:47] set names utf8
+[2018-05-28 15:22:47] DESC cz_attribute
+[2018-05-28 15:22:47] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 15:22:47] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:22:51] set names utf8
+[2018-05-28 15:22:51] DESC cz_goods_type
+[2018-05-28 15:22:51] SELECT * FROM cz_goods_type
+[2018-05-28 15:23:14] set names utf8
+[2018-05-28 15:23:14] DESC cz_attribute
+[2018-05-28 15:23:14] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('CUP','1','0','1','小龙845')
+[2018-05-28 15:23:15] set names utf8
+[2018-05-28 15:23:15] DESC cz_goods_type
+[2018-05-28 15:23:15] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 15:23:15] select count(*) from cz_goods_type
+[2018-05-28 15:23:19] set names utf8
+[2018-05-28 15:23:19] DESC cz_goods_type
+[2018-05-28 15:23:19] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 3,3
+[2018-05-28 15:23:19] select count(*) from cz_goods_type
+[2018-05-28 15:23:22] set names utf8
+[2018-05-28 15:23:22] DESC cz_attribute
+[2018-05-28 15:23:22] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 
+[2018-05-28 15:23:22] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:26:13] set names utf8
+[2018-05-28 15:26:13] DESC cz_attribute
+[2018-05-28 15:26:13] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-28 15:26:13] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:26:15] set names utf8
+[2018-05-28 15:26:15] DESC cz_attribute
+[2018-05-28 15:26:15] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 2,2
+[2018-05-28 15:26:15] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:27:35] set names utf8
+[2018-05-28 15:27:35] DESC cz_attribute
+[2018-05-28 15:27:35] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 2,2
+[2018-05-28 15:27:35] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:27:51] set names utf8
+[2018-05-28 15:27:51] DESC cz_attribute
+[2018-05-28 15:27:51] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 2,2
+[2018-05-28 15:27:51] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:27:55] set names utf8
+[2018-05-28 15:27:55] DESC cz_attribute
+[2018-05-28 15:27:55] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-28 15:27:55] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:32:34] set names utf8
+[2018-05-28 15:32:34] DESC cz_goods_type
+[2018-05-28 15:32:34] SELECT * FROM cz_goods_type
+[2018-05-28 15:32:34] set names utf8
+[2018-05-28 15:32:34] DESC cz_attribute
+[2018-05-28 15:32:34] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-28 15:32:34] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:32:37] set names utf8
+[2018-05-28 15:32:37] DESC cz_goods_type
+[2018-05-28 15:32:37] SELECT * FROM cz_goods_type
+[2018-05-28 15:32:37] set names utf8
+[2018-05-28 15:32:37] DESC cz_attribute
+[2018-05-28 15:32:37] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 3 LIMIT 0,2
+[2018-05-28 15:32:37] select count(*) from cz_attribute where type_id = 3
+[2018-05-28 15:32:40] set names utf8
+[2018-05-28 15:32:40] DESC cz_goods_type
+[2018-05-28 15:32:40] SELECT * FROM cz_goods_type
+[2018-05-28 15:32:40] set names utf8
+[2018-05-28 15:32:40] DESC cz_attribute
+[2018-05-28 15:32:40] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-28 15:32:40] select count(*) from cz_attribute where type_id = 6
+[2018-05-28 15:32:44] set names utf8
+[2018-05-28 15:32:44] DESC cz_goods_type
+[2018-05-28 15:32:44] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 15:32:44] select count(*) from cz_goods_type
+[2018-05-28 15:32:50] set names utf8
+[2018-05-28 15:32:50] DESC cz_goods_type
+[2018-05-28 15:32:50] SELECT * FROM cz_goods_type
+[2018-05-28 15:32:50] set names utf8
+[2018-05-28 15:32:50] DESC cz_attribute
+[2018-05-28 15:32:50] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-28 15:32:50] select count(*) from cz_attribute where type_id = 6
+[2018-05-28 15:32:55] set names utf8
+[2018-05-28 15:32:55] DESC cz_goods_type
+[2018-05-28 15:32:55] SELECT * FROM cz_goods_type
+[2018-05-28 15:32:55] set names utf8
+[2018-05-28 15:32:55] DESC cz_attribute
+[2018-05-28 15:32:55] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-28 15:32:55] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 15:33:47] set names utf8
+[2018-05-28 15:33:47] DESC cz_goods_type
+[2018-05-28 15:33:47] SELECT * FROM cz_goods_type
+[2018-05-28 15:33:47] set names utf8
+[2018-05-28 15:33:47] DESC cz_attribute
+[2018-05-28 15:33:48] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 5 LIMIT 0,2
+[2018-05-28 15:33:48] select count(*) from cz_attribute where type_id = 5
+[2018-05-28 15:33:51] set names utf8
+[2018-05-28 15:33:51] DESC cz_goods_type
+[2018-05-28 15:33:51] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-28 15:33:51] select count(*) from cz_goods_type
+[2018-05-28 15:33:54] set names utf8
+[2018-05-28 15:33:54] DESC cz_goods_type
+[2018-05-28 15:33:54] SELECT * FROM cz_goods_type
+[2018-05-28 15:33:54] set names utf8
+[2018-05-28 15:33:54] DESC cz_attribute
+[2018-05-28 15:33:54] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-28 15:33:54] select count(*) from cz_attribute where type_id = 6
+[2018-05-28 15:34:04] set names utf8
+[2018-05-28 15:34:04] DESC cz_goods_type
+[2018-05-28 15:34:05] SELECT * FROM cz_goods_type
+[2018-05-28 15:34:05] set names utf8
+[2018-05-28 15:34:05] DESC cz_attribute
+[2018-05-28 15:34:05] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-28 15:34:05] select count(*) from cz_attribute where type_id = 1
+[2018-05-28 17:09:10] set names utf8
+[2018-05-28 17:09:10] DESC cz_category
+[2018-05-28 17:09:10] SELECT * FROM cz_category
+[2018-05-28 17:13:09] set names utf8
+[2018-05-28 17:13:09] DESC cz_category
+[2018-05-28 17:13:09] SELECT * FROM cz_category
+[2018-05-28 17:13:09] set names utf8
+[2018-05-28 17:13:09] DESC cz_brand
+[2018-05-28 17:13:09] SELECT * FROM cz_brand
+[2018-05-29 09:09:11] set names utf8
+[2018-05-29 09:09:11] DESC cz_admin
+[2018-05-29 09:09:11] SELECT * FROM cz_admin WHERE 
+		       admin_name = 'admin' AND password = '21232f297a57a5a743894a0e4a801fc3'
+		       LIMIT 1
+[2018-05-29 09:13:22] set names utf8
+[2018-05-29 09:13:22] DESC cz_category
+[2018-05-29 09:13:22] SELECT * FROM cz_category
+[2018-05-29 09:13:22] set names utf8
+[2018-05-29 09:13:22] DESC cz_brand
+[2018-05-29 09:13:22] SELECT * FROM cz_brand
+[2018-05-29 09:13:22] set names utf8
+[2018-05-29 09:13:22] DESC cz_goods_type
+[2018-05-29 09:13:22] SELECT * FROM cz_goods_type
+[2018-05-29 09:20:51] set names utf8
+[2018-05-29 09:20:51] DESC cz_category
+[2018-05-29 09:20:51] SELECT * FROM cz_category
+[2018-05-29 09:20:51] set names utf8
+[2018-05-29 09:20:51] DESC cz_brand
+[2018-05-29 09:20:51] SELECT * FROM cz_brand
+[2018-05-29 09:20:51] set names utf8
+[2018-05-29 09:20:51] DESC cz_goods_type
+[2018-05-29 09:20:51] SELECT * FROM cz_goods_type
+[2018-05-29 09:29:14] set names utf8
+[2018-05-29 09:29:14] DESC cz_category
+[2018-05-29 09:29:14] SELECT * FROM cz_category
+[2018-05-29 09:29:14] set names utf8
+[2018-05-29 09:29:14] DESC cz_brand
+[2018-05-29 09:29:14] SELECT * FROM cz_brand
+[2018-05-29 09:29:14] set names utf8
+[2018-05-29 09:29:14] DESC cz_goods_type
+[2018-05-29 09:29:14] SELECT * FROM cz_goods_type
+[2018-05-29 09:29:26] set names utf8
+[2018-05-29 09:29:26] DESC cz_category
+[2018-05-29 09:29:26] SELECT * FROM cz_category
+[2018-05-29 09:29:26] set names utf8
+[2018-05-29 09:29:26] DESC cz_brand
+[2018-05-29 09:29:26] SELECT * FROM cz_brand
+[2018-05-29 09:29:26] set names utf8
+[2018-05-29 09:29:26] DESC cz_goods_type
+[2018-05-29 09:29:26] SELECT * FROM cz_goods_type
+[2018-05-29 10:25:10] set names utf8
+[2018-05-29 10:25:10] DESC cz_category
+[2018-05-29 10:25:10] SELECT * FROM cz_category
+[2018-05-29 10:25:10] set names utf8
+[2018-05-29 10:25:10] DESC cz_brand
+[2018-05-29 10:25:10] SELECT * FROM cz_brand
+[2018-05-29 10:25:10] set names utf8
+[2018-05-29 10:25:10] DESC cz_goods_type
+[2018-05-29 10:25:10] SELECT * FROM cz_goods_type
+[2018-05-29 10:25:14] set names utf8
+[2018-05-29 10:25:14] DESC cz_attribute
+[2018-05-29 10:25:14] SELECT * FROM cz_attribute WHERE type_id = 4
+[2018-05-29 10:25:52] set names utf8
+[2018-05-29 10:25:52] DESC cz_category
+[2018-05-29 10:25:52] SELECT * FROM cz_category
+[2018-05-29 10:25:52] set names utf8
+[2018-05-29 10:25:52] DESC cz_brand
+[2018-05-29 10:25:53] SELECT * FROM cz_brand
+[2018-05-29 10:25:53] set names utf8
+[2018-05-29 10:25:53] DESC cz_goods_type
+[2018-05-29 10:25:53] SELECT * FROM cz_goods_type
+[2018-05-29 10:25:56] set names utf8
+[2018-05-29 10:25:56] DESC cz_attribute
+[2018-05-29 10:25:56] SELECT * FROM cz_attribute WHERE type_id = 3
+[2018-05-29 10:25:59] set names utf8
+[2018-05-29 10:25:59] DESC cz_attribute
+[2018-05-29 10:25:59] SELECT * FROM cz_attribute WHERE type_id = 1
+[2018-05-29 10:30:04] set names utf8
+[2018-05-29 10:30:04] DESC cz_attribute
+[2018-05-29 10:30:04] SELECT * FROM cz_attribute WHERE type_id = 3
+[2018-05-29 10:30:10] set names utf8
+[2018-05-29 10:30:10] DESC cz_attribute
+[2018-05-29 10:30:10] SELECT * FROM cz_attribute WHERE type_id = 5
+[2018-05-29 10:30:14] set names utf8
+[2018-05-29 10:30:14] DESC cz_goods_type
+[2018-05-29 10:30:14] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-29 10:30:14] select count(*) from cz_goods_type
+[2018-05-29 10:30:19] set names utf8
+[2018-05-29 10:30:19] DESC cz_goods_type
+[2018-05-29 10:30:19] SELECT * FROM cz_goods_type
+[2018-05-29 10:30:19] set names utf8
+[2018-05-29 10:30:19] DESC cz_attribute
+[2018-05-29 10:30:19] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-29 10:30:19] select count(*) from cz_attribute where type_id = 6
+[2018-05-29 10:30:23] set names utf8
+[2018-05-29 10:30:23] DESC cz_goods_type
+[2018-05-29 10:30:23] SELECT * FROM cz_goods_type
+[2018-05-29 10:31:14] set names utf8
+[2018-05-29 10:31:14] DESC cz_attribute
+[2018-05-29 10:31:14] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('版次','6','0','1','1')
+[2018-05-29 10:31:15] set names utf8
+[2018-05-29 10:31:15] DESC cz_goods_type
+[2018-05-29 10:31:15] SELECT * FROM cz_goods_type
+[2018-05-29 10:31:15] set names utf8
+[2018-05-29 10:31:15] DESC cz_attribute
+[2018-05-29 10:31:15] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id=  LIMIT 0,2
+[2018-05-29 10:33:07] set names utf8
+[2018-05-29 10:33:07] DESC cz_goods_type
+[2018-05-29 10:33:07] SELECT * FROM cz_goods_type
+[2018-05-29 10:33:16] set names utf8
+[2018-05-29 10:33:16] DESC cz_attribute
+[2018-05-29 10:33:16] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('版次','6','0','1','')
+[2018-05-29 10:33:17] set names utf8
+[2018-05-29 10:33:17] DESC cz_goods_type
+[2018-05-29 10:33:17] SELECT * FROM cz_goods_type
+[2018-05-29 10:33:17] set names utf8
+[2018-05-29 10:33:17] DESC cz_attribute
+[2018-05-29 10:33:17] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id=  LIMIT 0,2
+[2018-05-29 10:33:20] set names utf8
+[2018-05-29 10:33:20] DESC cz_goods_type
+[2018-05-29 10:33:20] SELECT * FROM cz_goods_type
+[2018-05-29 10:37:12] set names utf8
+[2018-05-29 10:37:12] DESC cz_attribute
+[2018-05-29 10:37:12] INSERT INTO `cz_attribute` (`attr_name`,`type_id`,`attr_type`,`attr_input_type`,`attr_value`) VALUES ('版次','6','0','1','')
+[2018-05-29 10:37:13] set names utf8
+[2018-05-29 10:37:13] DESC cz_goods_type
+[2018-05-29 10:37:13] SELECT * FROM cz_goods_type
+[2018-05-29 10:37:13] set names utf8
+[2018-05-29 10:37:13] DESC cz_attribute
+[2018-05-29 10:37:13] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id=  LIMIT 0,2
+[2018-05-29 10:37:28] set names utf8
+[2018-05-29 10:37:28] DESC cz_category
+[2018-05-29 10:37:28] SELECT * FROM cz_category
+[2018-05-29 10:37:28] set names utf8
+[2018-05-29 10:37:28] DESC cz_brand
+[2018-05-29 10:37:28] SELECT * FROM cz_brand
+[2018-05-29 10:37:28] set names utf8
+[2018-05-29 10:37:28] DESC cz_goods_type
+[2018-05-29 10:37:28] SELECT * FROM cz_goods_type
+[2018-05-29 10:37:31] set names utf8
+[2018-05-29 10:37:31] DESC cz_goods_type
+[2018-05-29 10:37:31] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-29 10:37:31] select count(*) from cz_goods_type
+[2018-05-29 10:37:34] set names utf8
+[2018-05-29 10:37:34] DESC cz_goods_type
+[2018-05-29 10:37:34] SELECT * FROM cz_goods_type
+[2018-05-29 10:37:34] set names utf8
+[2018-05-29 10:37:34] DESC cz_attribute
+[2018-05-29 10:37:34] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-29 10:37:34] select count(*) from cz_attribute where type_id = 6
+[2018-05-29 10:37:47] set names utf8
+[2018-05-29 10:37:47] DESC cz_category
+[2018-05-29 10:37:47] SELECT * FROM cz_category
+[2018-05-29 10:37:47] set names utf8
+[2018-05-29 10:37:47] DESC cz_brand
+[2018-05-29 10:37:48] SELECT * FROM cz_brand
+[2018-05-29 10:37:48] set names utf8
+[2018-05-29 10:37:48] DESC cz_goods_type
+[2018-05-29 10:37:48] SELECT * FROM cz_goods_type
+[2018-05-29 10:37:53] set names utf8
+[2018-05-29 10:37:53] DESC cz_attribute
+[2018-05-29 10:37:53] SELECT * FROM cz_attribute WHERE type_id = 6
+[2018-05-29 10:38:02] set names utf8
+[2018-05-29 10:38:02] DESC cz_goods_type
+[2018-05-29 10:38:02] SELECT * FROM cz_goods_type ORDER BY type_id DESC LIMIT 0,3
+[2018-05-29 10:38:02] select count(*) from cz_goods_type
+[2018-05-29 10:38:04] set names utf8
+[2018-05-29 10:38:04] DESC cz_goods_type
+[2018-05-29 10:38:04] SELECT * FROM cz_goods_type
+[2018-05-29 10:38:04] set names utf8
+[2018-05-29 10:38:04] DESC cz_attribute
+[2018-05-29 10:38:04] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-29 10:38:04] select count(*) from cz_attribute where type_id = 6
+[2018-05-29 10:38:58] set names utf8
+[2018-05-29 10:38:58] DESC cz_goods_type
+[2018-05-29 10:38:58] SELECT * FROM cz_goods_type
+[2018-05-29 10:38:58] set names utf8
+[2018-05-29 10:38:58] DESC cz_attribute
+[2018-05-29 10:38:58] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-29 10:38:58] select count(*) from cz_attribute where type_id = 6
+[2018-05-29 10:39:02] set names utf8
+[2018-05-29 10:39:02] DESC cz_goods_type
+[2018-05-29 10:39:02] SELECT * FROM cz_goods_type
+[2018-05-29 10:39:02] set names utf8
+[2018-05-29 10:39:02] DESC cz_attribute
+[2018-05-29 10:39:02] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 1 LIMIT 0,2
+[2018-05-29 10:39:02] select count(*) from cz_attribute where type_id = 1
+[2018-05-29 10:39:10] set names utf8
+[2018-05-29 10:39:10] DESC cz_goods_type
+[2018-05-29 10:39:10] SELECT * FROM cz_goods_type
+[2018-05-29 10:39:10] set names utf8
+[2018-05-29 10:39:10] DESC cz_attribute
+[2018-05-29 10:39:10] SELECT * FROM cz_attribute AS a INNER JOIN cz_goods_type AS b ON a.type_id=b.type_id WHERE a.type_id= 6 LIMIT 0,2
+[2018-05-29 10:39:10] select count(*) from cz_attribute where type_id = 6
+[2018-05-29 10:39:15] set names utf8
+[2018-05-29 10:39:15] DESC cz_category
+[2018-05-29 10:39:15] SELECT * FROM cz_category
+[2018-05-29 10:39:15] set names utf8
+[2018-05-29 10:39:15] DESC cz_brand
+[2018-05-29 10:39:15] SELECT * FROM cz_brand
+[2018-05-29 10:39:15] set names utf8
+[2018-05-29 10:39:15] DESC cz_goods_type
+[2018-05-29 10:39:15] SELECT * FROM cz_goods_type
+[2018-05-29 10:39:19] set names utf8
+[2018-05-29 10:39:19] DESC cz_attribute
+[2018-05-29 10:39:19] SELECT * FROM cz_attribute WHERE type_id = 1
+[2018-05-29 10:45:47] set names utf8
+[2018-05-29 10:45:47] DESC cz_attribute
+[2018-05-29 10:45:47] SELECT * FROM cz_attribute WHERE type_id = 6
+[2018-05-29 10:45:49] set names utf8
+[2018-05-29 10:45:49] DESC cz_attribute
+[2018-05-29 10:45:49] SELECT * FROM cz_attribute WHERE type_id = 1
+[2018-05-29 11:56:37] set names utf8
+[2018-05-29 11:56:37] DESC cz_category
+[2018-05-29 11:56:37] SELECT * FROM cz_category
+[2018-05-29 11:56:37] set names utf8
+[2018-05-29 11:56:37] DESC cz_brand
+[2018-05-29 11:56:37] SELECT * FROM cz_brand
+[2018-05-29 11:56:37] set names utf8
+[2018-05-29 11:56:37] DESC cz_goods_type
+[2018-05-29 11:56:37] SELECT * FROM cz_goods_type
+[2018-05-29 11:56:55] set names utf8
+[2018-05-29 11:56:55] DESC cz_category
+[2018-05-29 11:56:55] SELECT * FROM cz_category
+[2018-05-29 11:57:10] set names utf8
+[2018-05-29 11:57:10] DESC cz_category
+[2018-05-29 11:57:10] SELECT * FROM cz_category
+[2018-05-29 11:57:25] set names utf8
+[2018-05-29 11:57:25] DESC cz_category
+[2018-05-29 11:57:25] INSERT INTO `cz_category` (`cat_name`,`unit`,`sort_order`,`cat_desc`,`parent_id`,`is_show`) VALUES ('手机','台','50','手机手机','0','1')
+[2018-05-29 11:57:26] set names utf8
+[2018-05-29 11:57:26] DESC cz_category
+[2018-05-29 11:57:26] SELECT * FROM cz_category
+[2018-05-29 11:58:22] set names utf8
+[2018-05-29 11:58:22] DESC cz_category
+[2018-05-29 11:58:22] SELECT * FROM cz_category
+[2018-05-29 11:58:22] set names utf8
+[2018-05-29 11:58:22] DESC cz_brand
+[2018-05-29 11:58:22] SELECT * FROM cz_brand
+[2018-05-29 11:58:22] set names utf8
+[2018-05-29 11:58:22] DESC cz_goods_type
+[2018-05-29 11:58:22] SELECT * FROM cz_goods_type
+[2018-05-29 11:58:36] set names utf8
+[2018-05-29 11:58:36] DESC cz_brand
+[2018-05-29 11:58:36] SELECT * FROM cz_brand
+[2018-05-29 11:59:00] set names utf8
+[2018-05-29 11:59:00] DESC cz_brand
+[2018-05-29 11:59:00] INSERT INTO `cz_brand` (`brand_name`,`url`,`brand_desc`,`sort_order`,`is_show`) VALUES ('诺基亚','wwww.nuokia.com','诺基亚好','50','1')
+[2018-05-29 11:59:01] set names utf8
+[2018-05-29 11:59:01] DESC cz_brand
+[2018-05-29 11:59:01] SELECT * FROM cz_brand
+[2018-05-29 12:00:11] set names utf8
+[2018-05-29 12:00:11] DESC cz_category
+[2018-05-29 12:00:11] SELECT * FROM cz_category
+[2018-05-29 12:00:11] set names utf8
+[2018-05-29 12:00:11] DESC cz_brand
+[2018-05-29 12:00:11] SELECT * FROM cz_brand
+[2018-05-29 12:00:11] set names utf8
+[2018-05-29 12:00:11] DESC cz_goods_type
+[2018-05-29 12:00:11] SELECT * FROM cz_goods_type
+[2018-05-29 12:01:22] set names utf8
+[2018-05-29 12:01:22] DESC cz_attribute
+[2018-05-29 12:01:22] SELECT * FROM cz_attribute WHERE type_id = 1
+[2018-05-29 12:01:40] set names utf8
+[2018-05-29 12:01:40] DESC cz_goods
+[2018-05-29 12:01:40] INSERT INTO `cz_goods` (`goods_name`,`goods_sn`,`cat_id`,`brand_id`,`type_id`,`shop_price`,`market_price`,`promote_start_time`,`promote_end_time`,`goods_desc`,`goods_number`,`is_best`,`is_new`,`is_onsale`,`add_time`,`goods_img`) VALUES ('诺基亚X6','11100001111','6','3','1','1699','1699','1243785600','1417276800','','4','1','1','1','1527566499','20180529/201805291201395b0cd0a3b0b7a.jpeg')
+[2018-05-29 12:01:40] set names utf8
+[2018-05-29 12:01:40] DESC cz_goods_attr
+[2018-05-29 12:01:40] INSERT INTO `cz_goods_attr` (`goods_id`,`attr_id`,`attr_value`,`attr_price`) VALUES ('1','1','2160','0')
+[2018-05-29 12:01:40] INSERT INTO `cz_goods_attr` (`goods_id`,`attr_id`,`attr_value`,`attr_price`) VALUES ('1','3','小龙845','0')
+[2018-05-29 14:41:43] set names utf8
+[2018-05-29 14:41:43] DESC cz_category
+[2018-05-29 14:41:43] SELECT * FROM cz_category
+[2018-05-29 14:56:21] set names utf8
+[2018-05-29 14:56:21] DESC cz_category
+[2018-05-29 14:56:21] SELECT * FROM cz_category
+[2018-05-29 14:56:21] set names utf8
+[2018-05-29 14:56:21] DESC cz_goods
+[2018-05-29 14:56:21] SELECT goods_id,goods_name,shop_price,goods_img FROM cz_goods
+                    ORDER BY goods_id DESC
+                    LIMIT 4

@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SHOP 管理中心 - 类型管理 </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="application/views/admin/styles/general.css" rel="stylesheet" type="text/css" />
+<link href="application/views/admin/styles/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<h1>
+<span class="action-span"><a href="index.php?p=admin&c=type&a=add">新建商品类型</a></span>
+<span class="action-span1"><a href="index.php?act=main">SHOP 管理中心</a> </span><span id="search_id" class="action-span1"> - 商品类型 </span>
+<div style="clear:both"></div>
+</h1>
+
+<form method="post" action="" name="listForm">
+<!-- start goods type list -->
+<div class="list-div" id="listDiv">
+
+	<table width="100%" cellpadding="3" cellspacing="1" id="listTable">
+		<tbody>
+			<tr>
+				<th>商品类型名称</th>
+				<th>属性分组</th>
+				<th>属性数</th>
+				<th>状态</th>
+				<th>操作</th>
+			</tr>
+      <?php foreach ($types as $type):?>
+			<tr>
+				<td class="first-cell"><span onclick="javascript:listTable.edit(this, 'edit_type_name', 1)"><?php echo $type['type_name'];?></span></td>
+				<td></td>
+				<td align="right">12</td>
+				<!-- <td align="right"><?php echo $type['num'];?></td> -->
+				<td align="center"><img src="application/views/admin/images/yes.gif"></td>
+				<td align="center">
+				  <a href="index.php?p=admin&c=attribute&a=index&type_id=<?php echo $type['type_id'];?>" title="属性列表">属性列表</a> |
+				  <a href="index.php?p=admin&c=type&a=edit&type_id=<?php echo $type['type_id'];?>" title="编辑">编辑</a> |
+				  <a href="index.php?p=admin&c=type&a=delete&type_id=<?php echo $type['type_id'];?>" onclick="javascript:return confirm('删除商品类型将会清除该类型下的所有属性。\n您确定要删除选定的商品类型吗？')" title="移除">移除</a>
+				</td>
+			</tr>
+    <?php endforeach;?>
+    
+
+      <tr>
+      <td align="right" nowrap="true" colspan="6" style="background-color: rgb(255, 255, 255);">
+            <!-- $Id: page.htm 14216 2008-03-10 02:27:21Z testyang $ -->
+            <div id="turn-page">
+        <?php echo $pageinfo;?>
+        <!--
+        总计  <span id="totalRecords">10</span>
+        个记录分为 <span id="totalPages">1</span>
+        页当前第 <span id="pageCurrent">1</span>
+        页，每页 <input type="text" size="3" id="pageSize" value="10" onkeypress="return listTable.changePageSize(event)">
+        <span id="page-link">
+          <a href="javascript:listTable.gotoPageFirst()">第一页</a>
+          <a href="javascript:listTable.gotoPagePrev()">上一页</a>
+          <a href="javascript:listTable.gotoPageNext()">下一页</a>
+          <a href="javascript:listTable.gotoPageLast()">最末页</a>
+          <select id="gotoPage" onchange="listTable.gotoPage(this.value)">
+            <option value="1">1</option>          </select>
+        </span>
+        -->
+      </div>
+      </td>
+    </tr>
+  </tbody></table>
+
+</div>
+<!-- end goods type list -->
+</form>
+
+<div id="footer">
+	版权所有 &copy; 2012-2013 传智播客 - PHP培训 - </div>
+</div>
+
+</body>
+</html>
